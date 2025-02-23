@@ -137,6 +137,8 @@ env.bak/
 venv.bak/
 graph
 
+.langgraph_api/
+
 # Spyder project settings
 .spyderproject
 .spyproject
